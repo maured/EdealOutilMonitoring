@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: ${project.name}
+Build-Date: 2017-12-01T15:20:49Z
+Built-OS: Windows 10
+Implementation-Version: Winter2017-TEST-002-SNAPSHOT
+Built-By: d.maure
+Maven-Compiler-Version: 1.7
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_77
+url: ${project.url}
+Implementation-Vendor: E-DEAL
+
